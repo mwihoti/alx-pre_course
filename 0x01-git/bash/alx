@@ -1,7 +1,12 @@
 #!/bin/bash
 <<<<<<< HEAD
 ALX School is cool
+<<<<<<< HEAD
 =======
 ALX School
 >>>>>>> update_script
 ALX School
+=======
+ALX School
+The school is open!
+>>>>>>> e35718e9803d572d492600c89e5f8c220a653e07
