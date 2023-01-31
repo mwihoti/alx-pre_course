@@ -1,1 +1,7 @@
-School
+#!/bin/bash
+<<<<<<< HEAD
+The school is open
+=======
+>>>>>>> origin/main
+The schoolis open!
+The school is open!
